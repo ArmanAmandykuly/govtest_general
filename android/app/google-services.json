@@ -1,0 +1,162 @@
+{
+  "project_info": {
+    "project_number": "368420281321",
+    "project_id": "govtest-72290",
+    "storage_bucket": "govtest-72290.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368420281321:android:6405ac96ab1b81f3f30978",
+        "android_client_info": {
+          "package_name": "com.example.accepter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368420281321-4pffvc138qtl1f168ql07j09a5bq2b16.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.accepter",
+            "certificate_hash": "2516ec2d148d636cd022916467188169a708ba68"
+          }
+        },
+        {
+          "client_id": "368420281321-2a6bu9usmoch7in1506t8i2dh3j3cfsk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJocdyvfOTnRVDg4E7sMfDuub5Xm47Y3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368420281321-2a6bu9usmoch7in1506t8i2dh3j3cfsk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "368420281321-oqbhh81ruqehr9stmumh933dpsqtndjt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.govtestaccepter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368420281321:android:0ed064b7fecb585ff30978",
+        "android_client_info": {
+          "package_name": "com.example.govtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368420281321-2a6bu9usmoch7in1506t8i2dh3j3cfsk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJocdyvfOTnRVDg4E7sMfDuub5Xm47Y3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368420281321-2a6bu9usmoch7in1506t8i2dh3j3cfsk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "368420281321-oqbhh81ruqehr9stmumh933dpsqtndjt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.govtestaccepter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368420281321:android:73565374b6134ebef30978",
+        "android_client_info": {
+          "package_name": "com.example.govtest_general"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368420281321-2a6bu9usmoch7in1506t8i2dh3j3cfsk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJocdyvfOTnRVDg4E7sMfDuub5Xm47Y3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368420281321-2a6bu9usmoch7in1506t8i2dh3j3cfsk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "368420281321-oqbhh81ruqehr9stmumh933dpsqtndjt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.govtestaccepter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368420281321:android:cc77a7ecb4828c20f30978",
+        "android_client_info": {
+          "package_name": "com.example.govtestaccepter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368420281321-2a6bu9usmoch7in1506t8i2dh3j3cfsk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJocdyvfOTnRVDg4E7sMfDuub5Xm47Y3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368420281321-2a6bu9usmoch7in1506t8i2dh3j3cfsk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "368420281321-oqbhh81ruqehr9stmumh933dpsqtndjt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.govtestaccepter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
